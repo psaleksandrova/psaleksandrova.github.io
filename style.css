@@ -1,0 +1,69 @@
+body{
+	font-family:Century Gothic;
+    font-size:15px;
+}
+.profile{
+    padding:5px;
+}
+.profile img{
+    padding:1px;
+    border:2px solid #34495e;
+    border-radius:8px;
+	height:179px;
+}
+.profile .photo{
+	margin:0 0 0 287px;
+    float:left;
+}
+.profile .info{
+	position:absolute;
+    left:35%;
+    width:566px;
+    margin-left:10px;
+}
+info-title, h2{
+    margin:0;
+    padding:10px;
+    font-size:12px;
+    font-weight:normal;
+    background:#34495e;
+    color:#fff;
+    border-radius:4px;
+}
+.fact div{
+    padding:10px;
+    background:white;
+}
+.fact:nth-child(odd) div{
+    background:#ecf0f1;
+}
+.info .fact .title {
+   float:left;
+   width:150px;
+   text-align:right;
+   color:#7f8c8d;
+}
+.info .fact .value{
+   margin-left:170px;
+   color:#34495e;
+}
+.profile .info .photos{
+    margin-top:5px;    
+}
+.profile .info .photos img, h2.info{
+    float:left;
+    margin-right:5px;
+}
+.profile .info .photos img:last-child{
+    margin-right:0;
+}
+span.button{
+    display:block;
+    height:30px;
+    margin:5px 0;
+    text-align:center;
+    line-height:30px;
+	border:2px solid #34495e;
+    border-radius:4px;
+	background:#ecf0f1;
+}

@@ -12,9 +12,8 @@ body{
 	height:179px;
 }
 .profile .photo{
+	margin:0 0 0 287px;
     float:left;
-	position:absolute;
-	left:22%;
 }
 .profile .info{
 	position:absolute;

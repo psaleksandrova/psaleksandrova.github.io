@@ -40,7 +40,7 @@ info-title, h2{
 }
 .info .fact .title {
    float:left;
-   width:50%;
+   width:150px;
    text-align:right;
    color:#7f8c8d;
 }
